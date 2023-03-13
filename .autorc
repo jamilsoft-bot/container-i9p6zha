@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "jamilsoft-bot",
+  "repo": "container-i9p6zha",
+  "name": "jamilsoft-bot",
+}
